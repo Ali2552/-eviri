@@ -1,0 +1,6 @@
+{
+  "name": "Video Alt Yazı",
+  "description": "Gerçek zamanlı video alt yazı ve dublaj, akıllı arama ve not defteri uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
